@@ -1,4 +1,4 @@
-- Hello, I am "The Muslim Person" or you can call me "Lawen".
+- Hello, I am "The Muslim Person".
 - I am a Web developer. And I am still learning web development.
 - I have almost fully learned HTML and Most of CSS. I am still trying to learn JavaScript.
 - I am starting to learn the Programming language lua. Sense I am trying to become a Roblox studio developer.
